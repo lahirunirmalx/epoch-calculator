@@ -1,0 +1,59 @@
+{
+  "date": "2026-05-11",
+  "time": "2026-05-11-08-26-36",
+  "weekday": "Mon",
+  "epoch": 1778487996,
+  "random": 270830,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "analyzer-adapter-707215",
+      "full_name": "lahirunirmalx/analyzer-adapter-707215",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        6,
+        5,
+        2,
+        4,
+        3
+      ]
+    },
+    {
+      "name": "monitor-profiler-995061",
+      "full_name": "lahirunirmalx/monitor-profiler-995061",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2
+      ]
+    },
+    {
+      "name": "pipeline-cluster-217930",
+      "full_name": "lahirunirmalx/pipeline-cluster-217930",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  }
+}
