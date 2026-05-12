@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-12",
+  "time": "2026-05-12-06-30-09",
+  "weekday": "Tue",
+  "epoch": 1778567409,
+  "random": 436094,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "forge-processor-930728",
+      "full_name": "lahirunirmalx/forge-processor-930728",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        2,
+        3,
+        5,
+        6,
+        4
+      ]
+    },
+    {
+      "name": "queue-gateway-309359",
+      "full_name": "lahirunirmalx/queue-gateway-309359",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        3,
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "name": "cluster-pixel-459945",
+      "full_name": "lahirunirmalx/cluster-pixel-459945",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        3,
+        2,
+        4
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": [
+      {
+        "repo": "lahirunirmalx/listener-mapper-780415",
+        "issue": 2
+      },
+      {
+        "repo": "lahirunirmalx/listener-sphere-733105",
+        "issue": 4
+      }
+    ]
+  }
+}
