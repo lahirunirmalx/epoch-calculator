@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-12",
+  "time": "2026-05-12-10-30-09",
+  "weekday": "Tue",
+  "epoch": 1778581809,
+  "random": 234091,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "spool-listener-651822",
+      "full_name": "lahirunirmalx/spool-listener-651822",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        4,
+        3,
+        5,
+        2
+      ]
+    },
+    {
+      "name": "cache-queue-975062",
+      "full_name": "lahirunirmalx/cache-queue-975062",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": [
+      {
+        "repo": "lahirunirmalx/listener-mapper-780415",
+        "issue": 3
+      },
+      {
+        "repo": "lahirunirmalx/spool-adapter-982990",
+        "issue": 2
+      },
+      {
+        "repo": "lahirunirmalx/listener-sphere-733105",
+        "issue": 3
+      }
+    ]
+  }
+}
