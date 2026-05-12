@@ -1,0 +1,40 @@
+{
+  "date": "2026-05-12",
+  "time": "2026-05-12-14-30-10",
+  "weekday": "Tue",
+  "epoch": 1778596210,
+  "random": 348334,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "micro-sampler-899224",
+      "full_name": "lahirunirmalx/micro-sampler-899224",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        2,
+        4,
+        5,
+        3
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": [
+      {
+        "repo": "lahirunirmalx/spool-adapter-982990",
+        "issue": 6
+      }
+    ]
+  }
+}
