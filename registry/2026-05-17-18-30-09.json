@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-17",
+  "time": "2026-05-17-18-30-09",
+  "weekday": "Sun",
+  "epoch": 1779042609,
+  "random": 150421,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "queue-spool-505170",
+      "full_name": "lahirunirmalx/queue-spool-505170",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "name": "queue-dispatcher-642371",
+      "full_name": "lahirunirmalx/queue-dispatcher-642371",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        3,
+        2,
+        4,
+        6,
+        5
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": true,
+    "checked": 12,
+    "eligible": 9,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
