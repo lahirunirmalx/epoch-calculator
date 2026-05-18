@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-18",
+  "time": "2026-05-18-06-30-09",
+  "weekday": "Mon",
+  "epoch": 1779085809,
+  "random": 921715,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "echo-micro-564987",
+      "full_name": "lahirunirmalx/echo-micro-564987",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        3,
+        2,
+        4
+      ]
+    },
+    {
+      "name": "api-listener-877668",
+      "full_name": "lahirunirmalx/api-listener-877668",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        2
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
