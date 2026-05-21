@@ -1,0 +1,75 @@
+{
+  "date": "2026-05-21",
+  "time": "2026-05-21-10-30-09",
+  "weekday": "Thu",
+  "epoch": 1779359409,
+  "random": 739936,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "core-linter-390986",
+      "full_name": "lahirunirmalx/core-linter-390986",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        3,
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "name": "router-sphere-365363",
+      "full_name": "lahirunirmalx/router-sphere-365363",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2
+      ]
+    },
+    {
+      "name": "gateway-runner-481966",
+      "full_name": "lahirunirmalx/gateway-runner-481966",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        3,
+        2,
+        4,
+        5
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": [
+      {
+        "repo": "lahirunirmalx/agent-flux-901139",
+        "issue": 6
+      },
+      {
+        "repo": "lahirunirmalx/agent-flux-901139",
+        "issue": 4
+      },
+      {
+        "repo": "lahirunirmalx/agent-flux-901139",
+        "issue": 3
+      }
+    ]
+  }
+}
