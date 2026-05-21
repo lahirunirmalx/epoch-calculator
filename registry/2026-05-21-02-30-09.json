@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-21",
+  "time": "2026-05-21-02-30-09",
+  "weekday": "Thu",
+  "epoch": 1779330609,
+  "random": 646399,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "micro-beacon-375028",
+      "full_name": "lahirunirmalx/micro-beacon-375028",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        3,
+        2
+      ]
+    },
+    {
+      "name": "cluster-api-631841",
+      "full_name": "lahirunirmalx/cluster-api-631841",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        3,
+        2
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
