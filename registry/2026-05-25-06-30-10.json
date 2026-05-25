@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-25",
+  "time": "2026-05-25-06-30-10",
+  "weekday": "Mon",
+  "epoch": 1779690610,
+  "random": 699055,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "cluster-packer-179333",
+      "full_name": "lahirunirmalx/cluster-packer-179333",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        3,
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "name": "listener-nano-150679",
+      "full_name": "lahirunirmalx/listener-nano-150679",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "mesh-resolver-921166",
+      "full_name": "lahirunirmalx/mesh-resolver-921166",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        4,
+        2,
+        3
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
