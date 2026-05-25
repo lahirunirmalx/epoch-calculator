@@ -1,0 +1,59 @@
+{
+  "date": "2026-05-25",
+  "time": "2026-05-25-14-30-10",
+  "weekday": "Mon",
+  "epoch": 1779719410,
+  "random": 467005,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "handler-queue-151163",
+      "full_name": "lahirunirmalx/handler-queue-151163",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        2
+      ]
+    },
+    {
+      "name": "helix-adapter-333509",
+      "full_name": "lahirunirmalx/helix-adapter-333509",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        2
+      ]
+    },
+    {
+      "name": "core-monitor-965520",
+      "full_name": "lahirunirmalx/core-monitor-965520",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        4,
+        5,
+        2,
+        3
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
