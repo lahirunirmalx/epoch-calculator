@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-27",
+  "time": "2026-05-27-02-30-10",
+  "weekday": "Wed",
+  "epoch": 1779849010,
+  "random": 209862,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "listener-agent-113548",
+      "full_name": "lahirunirmalx/listener-agent-113548",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        3,
+        4,
+        5,
+        2
+      ]
+    },
+    {
+      "name": "indexer-sdk-656008",
+      "full_name": "lahirunirmalx/indexer-sdk-656008",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        3,
+        2
+      ]
+    },
+    {
+      "name": "router-mapper-565212",
+      "full_name": "lahirunirmalx/router-mapper-565212",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        2,
+        5,
+        4,
+        3
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
