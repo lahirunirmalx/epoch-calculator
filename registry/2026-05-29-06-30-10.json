@@ -1,0 +1,47 @@
+{
+  "date": "2026-05-29",
+  "time": "2026-05-29-06-30-10",
+  "weekday": "Fri",
+  "epoch": 1780036210,
+  "random": 733372,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "shard-mesh-193227",
+      "full_name": "lahirunirmalx/shard-mesh-193227",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": [
+      {
+        "repo": "lahirunirmalx/cluster-sdk-894638",
+        "issue": 2
+      },
+      {
+        "repo": "lahirunirmalx/mapper-router-974452",
+        "issue": 5
+      },
+      {
+        "repo": "lahirunirmalx/mapper-router-974452",
+        "issue": 2
+      }
+    ]
+  }
+}
