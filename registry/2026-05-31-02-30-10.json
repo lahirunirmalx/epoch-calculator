@@ -1,0 +1,52 @@
+{
+  "date": "2026-05-31",
+  "time": "2026-05-31-02-30-10",
+  "weekday": "Sun",
+  "epoch": 1780194610,
+  "random": 715436,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "sampler-sphere-798986",
+      "full_name": "lahirunirmalx/sampler-sphere-798986",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "sampler-sdk-870276",
+      "full_name": "lahirunirmalx/sampler-sdk-870276",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": true,
+    "checked": 36,
+    "eligible": 35,
+    "deleted": [
+      "lahirunirmalx/crawler-gauge-418982",
+      "lahirunirmalx/gateway-dispatcher-942757",
+      "lahirunirmalx/crawler-sampler-477910",
+      "lahirunirmalx/api-dispatcher-699966",
+      "lahirunirmalx/mapper-router-974452"
+    ]
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
