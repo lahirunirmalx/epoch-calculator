@@ -1,0 +1,66 @@
+{
+  "date": "2026-05-31",
+  "time": "2026-05-31-06-30-11",
+  "weekday": "Sun",
+  "epoch": 1780209011,
+  "random": 762560,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "rune-cluster-172008",
+      "full_name": "lahirunirmalx/rune-cluster-172008",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        3,
+        2,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "resolver-loader-408813",
+      "full_name": "lahirunirmalx/resolver-loader-408813",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2
+      ]
+    },
+    {
+      "name": "spool-crawler-541792",
+      "full_name": "lahirunirmalx/spool-crawler-541792",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2,
+        4,
+        3
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": true,
+    "checked": 39,
+    "eligible": 35,
+    "deleted": [
+      "lahirunirmalx/buffer-sync-769929",
+      "lahirunirmalx/sdk-stream-946742",
+      "lahirunirmalx/sampler-loader-107316"
+    ]
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
