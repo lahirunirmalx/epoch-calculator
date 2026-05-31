@@ -1,0 +1,48 @@
+{
+  "date": "2026-05-31",
+  "time": "2026-05-31-14-30-11",
+  "weekday": "Sun",
+  "epoch": 1780237811,
+  "random": 715959,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "linter-dispatcher-630881",
+      "full_name": "lahirunirmalx/linter-dispatcher-630881",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        4,
+        2,
+        3,
+        6,
+        5
+      ]
+    },
+    {
+      "name": "scheduler-runner-363032",
+      "full_name": "lahirunirmalx/scheduler-runner-363032",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        2
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": true,
+    "checked": 39,
+    "eligible": 35,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
