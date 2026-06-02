@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-02",
+  "time": "2026-06-02-06-30-10",
+  "weekday": "Tue",
+  "epoch": 1780381810,
+  "random": 403707,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "kernel-agent-397188",
+      "full_name": "lahirunirmalx/kernel-agent-397188",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        2,
+        3,
+        5,
+        4
+      ]
+    },
+    {
+      "name": "broker-sync-132791",
+      "full_name": "lahirunirmalx/broker-sync-132791",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": false,
+      "issues": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "handler-builder-280282",
+      "full_name": "lahirunirmalx/handler-builder-280282",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        3,
+        2
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
