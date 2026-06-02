@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-02",
+  "time": "2026-06-02-07-02-17",
+  "weekday": "Tue",
+  "epoch": 1780383737,
+  "random": 503402,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "spark-scheduler-660595",
+      "full_name": "lahirunirmalx/spark-scheduler-660595",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "broker-core-660034",
+      "full_name": "lahirunirmalx/broker-core-660034",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        3,
+        2
+      ]
+    },
+    {
+      "name": "monitor-pixel-594314",
+      "full_name": "lahirunirmalx/monitor-pixel-594314",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        3,
+        2,
+        4
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": []
+  }
+}
