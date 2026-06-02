@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-01",
+  "time": "2026-06-01-22-30-10",
+  "weekday": "Mon",
+  "epoch": 1780353010,
+  "random": 198350,
+  "approver_username": "orangehrmlahiru",
+  "repos": [
+    {
+      "name": "bridge-scheduler-625057",
+      "full_name": "lahirunirmalx/bridge-scheduler-625057",
+      "creation_status": "created",
+      "collaborator_status": "invited",
+      "pr_number": 1,
+      "pr_approved": true,
+      "pr_merged": true,
+      "issues": [
+        2,
+        3
+      ]
+    }
+  ],
+  "weekly_cleanup": {
+    "ran": false,
+    "checked": 0,
+    "eligible": 0,
+    "deleted": []
+  },
+  "issue_cleanup": {
+    "checked_repos": 3,
+    "closed": [
+      {
+        "repo": "lahirunirmalx/cluster-sdk-894638",
+        "issue": 3
+      }
+    ]
+  }
+}
